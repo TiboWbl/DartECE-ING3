@@ -101,14 +101,14 @@ public class Musique extends javax.swing.JFrame {
         jLabel2.setForeground(new java.awt.Color(0, 153, 255));
         jLabel2.setText("Musique / Album");
 
-        jButton1.setIcon(new javax.swing.ImageIcon("C:\\Users\\gameu\\Downloads\\Anis3\\Projet_Java\\caddy.png")); // NOI18N
+        jButton1.setIcon(new javax.swing.ImageIcon("caddy.png")); // NOI18N
         jButton1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton1ActionPerformed(evt);
             }
         });
 
-        jButton2.setIcon(new javax.swing.ImageIcon("C:\\Users\\gameu\\OneDrive - Groupe INSEEC (POCE)\\Tibo ECE\\ING3\\Java\\BOUCHAKOR_Anis_SCHAPIRA_Emma_WEIBEL_Thibaut_Projet_Java\\compte.jpeg")); // NOI18N
+        jButton2.setIcon(new javax.swing.ImageIcon("compte.jpeg")); // NOI18N
         jButton2.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton2ActionPerformed(evt);
@@ -150,7 +150,7 @@ public class Musique extends javax.swing.JFrame {
             }
         });
 
-        jLabel3.setIcon(new javax.swing.ImageIcon("C:\\Users\\gameu\\OneDrive - Groupe INSEEC (POCE)\\Tibo ECE\\ING3\\Java\\BOUCHAKOR_Anis_SCHAPIRA_Emma_WEIBEL_Thibaut_Projet_Java\\music.png")); // NOI18N
+        jLabel3.setIcon(new javax.swing.ImageIcon("music.png")); // NOI18N
 
         jButton6.setFont(new java.awt.Font("Arial Rounded MT Bold", 0, 24)); // NOI18N
         jButton6.setForeground(new java.awt.Color(0, 153, 255));

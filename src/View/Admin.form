@@ -135,14 +135,14 @@
         <Component class="javax.swing.JLabel" name="jLabel4">
           <Properties>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\gameu\OneDrive - Groupe INSEEC (POCE)\Tibo ECE\ING3\Java\BOUCHAKOR_Anis_SCHAPIRA_Emma_WEIBEL_Thibaut_Projet_Java\dartece.png"/>
+              <Image iconType="2" name="dartece.png"/>
             </Property>
           </Properties>
         </Component>
         <Component class="javax.swing.JButton" name="jButton7">
           <Properties>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\gameu\OneDrive - Groupe INSEEC (POCE)\Tibo ECE\ING3\Java\BOUCHAKOR_Anis_SCHAPIRA_Emma_WEIBEL_Thibaut_Projet_Java\compte.jpeg"/>
+              <Image iconType="2" name="compte.jpeg"/>
             </Property>
           </Properties>
           <Events>

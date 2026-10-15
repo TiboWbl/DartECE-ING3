@@ -98,14 +98,14 @@ public class Electromenager extends javax.swing.JFrame {
         jLabel2.setForeground(new java.awt.Color(0, 153, 255));
         jLabel2.setText("Electroménager");
 
-        jButton1.setIcon(new javax.swing.ImageIcon("C:\\Users\\gameu\\OneDrive - Groupe INSEEC (POCE)\\Tibo ECE\\ING3\\Java\\BOUCHAKOR_Anis_SCHAPIRA_Emma_WEIBEL_Thibaut_Projet_Java\\caddy.png")); // NOI18N
+        jButton1.setIcon(new javax.swing.ImageIcon("caddy.png")); // NOI18N
         jButton1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton1ActionPerformed(evt);
             }
         });
 
-        jButton2.setIcon(new javax.swing.ImageIcon("C:\\Users\\gameu\\OneDrive - Groupe INSEEC (POCE)\\Tibo ECE\\ING3\\Java\\BOUCHAKOR_Anis_SCHAPIRA_Emma_WEIBEL_Thibaut_Projet_Java\\compte.jpeg")); // NOI18N
+        jButton2.setIcon(new javax.swing.ImageIcon("compte.jpeg")); // NOI18N
         jButton2.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton2ActionPerformed(evt);

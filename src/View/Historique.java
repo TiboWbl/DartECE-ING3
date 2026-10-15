@@ -65,7 +65,7 @@ public class Historique extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
-        jButton2.setIcon(new javax.swing.ImageIcon("C:\\Users\\gameu\\OneDrive - Groupe INSEEC (POCE)\\Tibo ECE\\ING3\\Java\\BOUCHAKOR_Anis_SCHAPIRA_Emma_WEIBEL_Thibaut_Projet_Java\\compte.jpeg")); // NOI18N
+        jButton2.setIcon(new javax.swing.ImageIcon("compte.jpeg")); // NOI18N
         jButton2.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton2ActionPerformed(evt);

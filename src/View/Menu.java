@@ -51,9 +51,9 @@ public class Menu extends javax.swing.JFrame {
 
         jPanel1.setBackground(new java.awt.Color(0, 153, 255));
 
-        jLabel4.setIcon(new javax.swing.ImageIcon("C:\\Users\\gameu\\OneDrive - Groupe INSEEC (POCE)\\Tibo ECE\\ING3\\Java\\BOUCHAKOR_Anis_SCHAPIRA_Emma_WEIBEL_Thibaut_Projet_Java\\dartece.png")); // NOI18N
+        jLabel4.setIcon(new javax.swing.ImageIcon("dartece.png")); // NOI18N
 
-        jButton5.setIcon(new javax.swing.ImageIcon("C:\\Users\\gameu\\Downloads\\Anis3\\Projet_Java\\compte.jpeg")); // NOI18N
+        jButton5.setIcon(new javax.swing.ImageIcon("compte.jpeg")); // NOI18N
         jButton5.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton5ActionPerformed(evt);
@@ -63,7 +63,7 @@ public class Menu extends javax.swing.JFrame {
         jLabel3.setFont(new java.awt.Font("Arial Rounded MT Bold", 3, 48)); // NOI18N
         jLabel3.setText("Accueil");
 
-        jButton7.setIcon(new javax.swing.ImageIcon("C:\\Users\\gameu\\Downloads\\Anis3\\Projet_Java\\caddy.png")); // NOI18N
+        jButton7.setIcon(new javax.swing.ImageIcon("caddy.png")); // NOI18N
         jButton7.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton7ActionPerformed(evt);

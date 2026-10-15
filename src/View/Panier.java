@@ -134,9 +134,9 @@ public class Panier extends javax.swing.JFrame {
         jLabel1.setForeground(new java.awt.Color(255, 255, 255));
         jLabel1.setText("Panier");
 
-        jLabel4.setIcon(new javax.swing.ImageIcon("C:\\Users\\gameu\\OneDrive - Groupe INSEEC (POCE)\\Tibo ECE\\ING3\\Java\\BOUCHAKOR_Anis_SCHAPIRA_Emma_WEIBEL_Thibaut_Projet_Java\\dartece.png")); // NOI18N
+        jLabel4.setIcon(new javax.swing.ImageIcon("dartece.png")); // NOI18N
 
-        jButton3.setIcon(new javax.swing.ImageIcon("C:\\Users\\gameu\\OneDrive - Groupe INSEEC (POCE)\\Tibo ECE\\ING3\\Java\\BOUCHAKOR_Anis_SCHAPIRA_Emma_WEIBEL_Thibaut_Projet_Java\\compte.jpeg")); // NOI18N
+        jButton3.setIcon(new javax.swing.ImageIcon("compte.jpeg")); // NOI18N
         jButton3.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton3ActionPerformed(evt);
